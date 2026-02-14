@@ -59,9 +59,11 @@ These insights highlight potential revenue leakage, overstocking, and distributi
 - Improved cash flow management
 - Better stock allocation across locations
 - Enhanced operational decision-making
-## Dashboard Preview
-![Dashboard Preview](greenlifedashboard.png)
+
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_image.png)
+![Dashboard Preview](greenlife inventory analysis.png)
+---
+
+
