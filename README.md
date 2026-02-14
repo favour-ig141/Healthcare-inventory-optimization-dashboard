@@ -63,7 +63,7 @@ These insights highlight potential revenue leakage, overstocking, and distributi
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](greenlife inventory analysis.png)
+![Dashboard Preview](greenlife_inventory_dashboard.png)
 ---
 
 
